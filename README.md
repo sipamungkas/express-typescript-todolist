@@ -11,7 +11,7 @@
 
 ## Description
 
-Yet another todo list project in my journey to web development. in this case I am using React + Typescript to make a Todo List. Without Database, auth and other logic!
+yet another todo list project. I think every programmer can make this project. but this is a baby step for me in my journey learning typescript. It's very simple without database. Without Database, auth and other logic!
 
 ## Features
 

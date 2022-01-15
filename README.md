@@ -9,10 +9,6 @@
 
 ## Preview
 
-<div style="text-align:center">
-<img src="docs/todo-preview.gif" alt="Drag and drop preview" height="auto" width="auto"/>
-</div>
-
 ## Description
 
 Yet another todo list project in my journey to web development. in this case I am using React + Typescript to make a Todo List. Without Database, auth and other logic!
